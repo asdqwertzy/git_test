@@ -1,4 +1,3 @@
 # git_test
-Courtesy of TheOdinProject
-
+Courtesy of TheOdinProject\
 Test
